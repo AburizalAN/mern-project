@@ -1,0 +1,20 @@
+.wrapper {
+    height: 100%;
+    &.register .ilustrasi {
+        background-image: url(../../assets/images/register_image.jpg);
+    }
+    &.login  .ilustrasi {
+        background-image: url(../../assets/images/login_image.jpg);
+    }
+    .ilustrasi {
+        background-size: cover;
+        background-position: center;
+        height: 100%;
+    }
+    
+    .form-register {
+        background-color:white;
+        height: 100%;
+    }
+}
+

@@ -1,0 +1,17 @@
+.edit-wrapper {
+    font-weight: 600;
+    a {
+        text-decoration: none;
+        cursor: pointer;
+    }
+    .edit {
+        color: rgb(201, 38, 38);
+    }
+    .delete {
+        color: rgb(55, 55, 216);
+    }
+}
+
+.card-text {
+    flex: 1;
+}
